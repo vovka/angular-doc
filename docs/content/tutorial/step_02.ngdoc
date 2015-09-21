@@ -168,7 +168,7 @@ describe('PhoneCat controllers', function() {
 разработчикам рекомендуется писать их.
 
 Angular разработчики предпочитают синтаксис фреймворка Jasmine, когда пишут тесты. Jasmine предоставляет 
-подход к тестированию JavaScript кода, называемый - разработка, основанная на функционировании 
+подход к тестированию JavaScript кода, называемый - разработка, основанная на поведении 
 (Behavior-driven Development, BDD). Хотя Angular не требует использовать Jasmine, мы написали все тесты в
 этом учебнике на Jasmine-е. Вы можете больше узнать о Jasmine на {@link
 http://pivotal.github.com/jasmine/ Домашней странице Jasmine} и в {@link
